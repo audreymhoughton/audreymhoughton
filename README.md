@@ -3,8 +3,7 @@
 🚀 **Open to Work** — Infrastructure, Data Engineering, and Internal Tools roles  
 
 [📄 Resume (PDF)](https://github.com/audreymhoughton/audreymhoughton/raw/main/AudreyHoughton.pdf) • 
-[💼 LinkedIn](https://www.linkedin.com/in/audreyhoughton/) • 
-[⭐ Featured Repo: Job Tracker App](https://github.com/audreymhoughton/job-tracker-apps)
+[💼 LinkedIn](https://www.linkedin.com/in/audreyhoughton/) 
 
 ---
 
