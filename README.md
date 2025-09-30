@@ -1,36 +1,28 @@
-## 👋 Hi there, I’m Audrey!
-I'm a software engineer with a strong foundation in Python, Linux systems, high-performance computing (HPC), and internal tooling. I enjoy building tools that make engineering workflows smoother, infrastructure more reliable, and cross-team collaboration easier. My recent work has focused on supporting data center operations, improving developer experience, and solving real-world problems through thoughtful automation and clean, maintainable code.
+# 👋 Hi, I’m Audrey Houghton
 
-## 🔍 I’m currently open to work
-I’m actively seeking new remote opportunities in software engineering — particularly in roles focused on internal tools, platform engineering, or infrastructure-aware development. I'm excited to contribute to teams that value thoughtful engineering, collaboration across disciplines, and systems that just work.
+🚀 **Open to Work** — Infrastructure, Data Engineering, and Internal Tools roles  
 
-If you're hiring or know of a team that could benefit from a Python-savvy developer with systems experience and a passion for improving internal tools, I'd love to connect!
+[📄 Resume (PDF)](https://github.com/audreymhoughton/audreymhoughton/raw/main/AudreyHoughton.pdf) • 
+[💼 LinkedIn](https://www.linkedin.com/in/audreyhoughton/) • 
+[⭐ Featured Repo: Job Tracker App](https://github.com/audreymhoughton/job-tracker-apps)
 
-## 💻 What I’m into:
-- Writing reliable Python code for automation, tooling, and data analysis
+---
 
-- Improving internal systems and workflows across engineering teams
+## About Me
+- Engineer with experience scaling **high-performance computing clusters** and **cloud infrastructure** (Kubernetes, SLURM, Ansible, Grafana, Prometheus).  
+- Builder of **open-source neuroimaging pipelines** (BIBSNet, CABINET, SLURM Wrappers) and **automation tools** (Salesforce + Teams integrations, Google Apps Script utilities).  
+- Passionate about **documentation-first engineering**, cross-team collaboration, and creating solutions that are **usable, efficient, and impactful**.  
 
-- Debugging performance issues and validating system behavior
+---
 
-- Bridging the gap between infrastructure and development
+## Pinned Projects
+- [📊 Job Tracker App](https://github.com/audreymhoughton/job-tracker-apps) – Google Apps Script + clasp, automating job application tracking in Google Sheets  
+- [🧠 BIBSNet](https://github.com/DCAN-Labs/BIBSnet) – Infant MRI segmentation with 600× speed-up and +53% accuracy  
+- [🔗 CABINET](https://github.com/DCAN-Labs/CABINET) – FAIR container-linking Python wrapper  
+- [⚙️ SLURM Wrappers](https://github.com/DCAN-Labs/SLURM_wrappers) – HPC-compliant Bash/Python wrappers for AWS S3 + disk-based workflows  
 
-- Documenting and communicating technical work clearly and effectively
+---
 
-- Working with high-performance computing (HPC) environments, including managing workloads with SLURM
-
-- Implementing parallel and batch processing for scalable, efficient computations and resource management
-
-- Building and optimizing data pipelines for efficient data ingestion, reduction, analysis, visualization, and manipulation
-
-- Applying data reduction techniques and transforming raw data into actionable insights
-
-## 🛠 Tech I use & like:
-`Python` • `Linux` • `Bash` • `Git` • `Prometheus` • `Grafana` • `SLURM` • `Kubernetes`
-
-# 📫 Let’s connect:
-Feel free to explore my projects or get in touch — I’m always open to interesting conversations or opportunities.
-
-- 📧 Email: audreymhoughton@gmail.com
-
-- 💼 LinkedIn: [linkedin.com/in/audreyhoughton](linkedin.com/in/audreyhoughton)
+## Contact
+📧 [audreymhoughton@gmail.com](mailto:audreymhoughton@gmail.com)  
+📍 Remote (US-based) | Open to Data Infrastructure / Internal Tools / DevOps role
