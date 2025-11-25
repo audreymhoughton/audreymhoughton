@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Audrey Houghton
 
-🏢 **Cloud Infrastructure Engineer @ [SoundPatrol](https://github.com/snowcrash-labs)**
+🚀 **Open to Work** — Infrastructure, Data Engineering, and Internal Tools roles  
 
 [📄 Resume (PDF)](https://github.com/audreymhoughton/audreymhoughton/raw/main/AudreyHoughton.pdf) • 
 [💼 LinkedIn](https://www.linkedin.com/in/audreyhoughton/) 
@@ -24,4 +24,4 @@
 
 ## Contact
 📧 [audreymhoughton@gmail.com](mailto:audreymhoughton@gmail.com)  
-📍 Remote (US-based) | Cloud Infrastructure Engineer @ [SoundPatrol](https://github.com/snowcrash-labs)
+📍 Remote (US-based) | Open to Data Infrastructure / Internal Tools / DevOps role
