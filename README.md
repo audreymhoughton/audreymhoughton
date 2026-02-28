@@ -1,24 +1,30 @@
 # 👋 Hi, I'm Audrey Houghton
 
-🚀 Data • Infrastructure • ML Systems Engineer  
-⚙️ HPC | Analytics Engineering | Automation | Research Computing
+🚀 **Data • Infrastructure • ML Systems Engineer**  
+⚙️ HPC | Analytics Engineering | Automation | Research Computing  
 
-I build scalable data and compute systems that turn complex datasets into
-reliable, reproducible, and production-ready workflows.
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue)](./AudreyHoughton.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2)](https://linkedin.com/in/audreyhoughton)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4)](https://scholar.google.com/citations?hl=en&user=ik59nO0AAAAJ&view)
+
+---
+
+I build scalable **data and compute systems** that transform complex datasets into reliable,
+reproducible, and production-ready workflows.
 
 My work spans **GPU cloud infrastructure, high-performance computing,
-machine learning pipelines, and large-scale analytics systems** across
-research and production environments.
+machine learning pipelines, and large-scale analytics systems**
+across both research and production environments.
 
 ---
 
 ## 🔭 Currently Working On
 
 - 🧠 GIS-linked Electronic Health Record (EHR) analytics pipelines  
-- 🤖 Automation systems integrating APIs, logging, and alert workflows  
-- ⚡ Reproducible SLURM & HPC data processing pipelines  
-- 📊 Applied machine learning & causal inference workflows  
-- 🏗️ Production-style research infrastructure and validation systems  
+- 🤖 Automation systems integrating APIs, structured logging, and alerts  
+- ⚡ Reproducible SLURM & HPC data processing workflows  
+- 📊 Applied machine learning and causal inference analysis  
+- 🏗️ Production-style research infrastructure & validation systems  
 
 ---
 
@@ -26,7 +32,7 @@ research and production environments.
 
 ### 🤖 Lead Automation & Sales Intelligence Pipeline
 Enterprise-style automation platform integrating compliant web scraping,
-territory mapping, structured logging, and Teams-style alerting workflows.
+territory mapping, structured logging, and workflow alerting.
 
 **Tech:** Python • APIs • ETL • Automation • Data Validation
 
@@ -51,8 +57,8 @@ pipelines across heterogeneous compute environments.
 ---
 
 ### 🧠 BIBSNet — Infant MRI Segmentation
-Containerized deep learning application achieving major performance and
-accuracy improvements for large-scale neuroimaging pipelines.
+Containerized deep learning application improving performance and accuracy
+for large-scale neuroimaging pipelines.
 
 **Tech:** Python • Deep Learning • Containers • HPC  
 🔗 https://github.com/DCAN-Labs/BIBSnet
@@ -60,7 +66,8 @@ accuracy improvements for large-scale neuroimaging pipelines.
 ---
 
 ### 📈 Google Sheets Automation Utilities
-Automation tools for dynamic link generation and workflow tracking.
+Google Apps Script tools automating workflow tracking,
+dynamic link generation, and real-time updates.
 
 **Tech:** JavaScript • Google Apps Script • Node.js
 
@@ -78,7 +85,7 @@ Benchmarking • Data Validation
 
 ### ☁️ Infrastructure & HPC
 Kubernetes • SLURM • Docker • Singularity  
-AWS S3 • Ceph • Distributed Compute
+AWS S3 • Ceph • Distributed Compute Systems
 
 ### 📡 Observability & Operations
 Grafana • Prometheus • Linux/Unix Systems
@@ -92,12 +99,12 @@ GitHub Actions
 
 ## 📌 Selected Impact
 
-✅ Provisioned thousands of NVIDIA GPU nodes in production Kubernetes clusters  
+✅ Provisioned and maintained thousands of NVIDIA GPU nodes in production Kubernetes clusters  
 ✅ Built pipelines processing **petabyte-scale datasets**  
 ✅ Achieved **600× performance improvements** in imaging workflows  
-✅ Reduced large-scale runtimes by **10–12×** via HPC optimization  
+✅ Reduced runtimes **10–12×** through HPC optimization  
 ✅ Designed automation systems reducing manual operational overhead  
-✅ Led documentation & reproducibility initiatives across teams  
+✅ Led documentation & reproducibility initiatives across multi-team environments  
 
 ---
 
@@ -112,12 +119,14 @@ GitHub Actions
 
 ---
 
-## 📚 Publications & Research
+## 🧠 Engineering Notes
 
-Applied computational and statistical methods supporting interdisciplinary
-research in psychiatry, neuroscience, and population health analytics.
+I maintain ongoing public engineering observations and system design notes here:
 
-🔬 Google Scholar: [https://scholar.google.com/citations?user=ik59nO0AAAAJ](https://scholar.google.com/citations?hl=en&user=ik59nO0AAAAJ&view)
+🔗 **systems-notes** *(debugging, infrastructure lessons, performance insights)*
+
+These notes document real-world lessons learned while building
+large-scale research and production data systems.
 
 ---
 
