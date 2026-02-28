@@ -119,17 +119,6 @@ GitHub Actions
 
 ---
 
-## 🧠 Engineering Notes
-
-I maintain ongoing public engineering observations and system design notes here:
-
-🔗 **systems-notes** *(debugging, infrastructure lessons, performance insights)*
-
-These notes document real-world lessons learned while building
-large-scale research and production data systems.
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/audreyhoughton  
