@@ -13,18 +13,19 @@ I build scalable **data and compute systems** that transform complex datasets in
 reproducible, and production-ready workflows.
 
 My work spans **GPU cloud infrastructure, high-performance computing,
-machine learning pipelines, and large-scale analytics systems**
-across both research and production environments.
+clinical prediction workflows, geospatial EHR analytics, and large-scale
+analytics systems** across research and production environments.
 
 ---
 
 ## 🔭 Currently Working On
 
 - 🧠 GIS-linked Electronic Health Record (EHR) analytics pipelines  
-- 🤖 Automation systems integrating APIs, structured logging, and alerts  
-- ⚡ Reproducible SLURM & HPC data processing workflows  
-- 📊 Applied machine learning and causal inference analysis  
-- 🏗️ Production-style research infrastructure & validation systems  
+- 🤖 Automation systems integrating APIs, logging, and alert workflows  
+- ⚡ Reproducible SLURM & HPC data processing pipelines  
+- 📊 Applied machine learning workflows using LightGBM, calibration, cross-validation, and SHAP  
+- 🧪 Clinical prediction and causal inference methods for research validation  
+- 🏗️ Production-style research infrastructure and validation systems  
 
 ---
 
@@ -80,7 +81,8 @@ Python • SQL • Bash • JavaScript • R • MATLAB
 
 ### 📊 Data & Machine Learning
 Pandas • NumPy • Statistical Modeling  
-Predictive Modeling • Causal Inference  
+Predictive Modeling • LightGBM • Calibration  
+Cross-Validation • SHAP • Causal Inference  
 Benchmarking • Data Validation
 
 ### ☁️ Infrastructure & HPC
