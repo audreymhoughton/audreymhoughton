@@ -3,22 +3,26 @@
 🚀 **Data • Infrastructure • ML Systems Engineer**  
 ⚙️ HPC | Analytics Engineering | Automation | Research Computing  
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue)](./AudreyHoughton.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue)](./AudreyHoughton_resume.pdf)
+[![CV](https://img.shields.io/badge/CV-PDF-2E7D32)](./AudreyHoughton_CV.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2)](https://linkedin.com/in/audreyhoughton)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4)](https://scholar.google.com/citations?hl=en&user=ik59nO0AAAAJ&view)
 
 ---
 
-I build scalable **data and compute systems** that transform complex datasets into reliable,
-reproducible, and production-ready workflows.
+I build reliable **data, compute, and machine learning infrastructure** for research and
+production environments, with a focus on HPC, GPU systems, and reproducible analytics.
 
 My work spans **GPU cloud infrastructure, high-performance computing,
 clinical prediction workflows, geospatial EHR analytics, and large-scale
 analytics systems** across research and production environments.
 
+My work sits at the intersection of research software engineering and production infrastructure,
+turning complex technical and scientific requirements into maintainable systems.
+
 ---
 
-## 🔭 Currently Working On
+## 🧭 Areas of Focus
 
 - 🧠 GIS-linked Electronic Health Record (EHR) analytics pipelines  
 - 🤖 Automation systems integrating APIs, logging, and alert workflows  
@@ -31,7 +35,7 @@ analytics systems** across research and production environments.
 
 ## ⭐ Featured Projects
 
-### 🤖 Lead Automation & Sales Intelligence Pipeline
+### [🤖 Lead Automation & Sales Intelligence Pipeline](https://github.com/audreymhoughton/lead-lab)
 Enterprise-style automation platform integrating compliant web scraping,
 territory mapping, structured logging, and workflow alerting.
 
@@ -66,7 +70,7 @@ for large-scale neuroimaging pipelines.
 
 ---
 
-### 📈 Google Sheets Automation Utilities
+### [📈 Google Sheets Automation Utilities](https://github.com/audreymhoughton/job-tracker-apps)
 Google Apps Script tools automating workflow tracking,
 dynamic link generation, and real-time updates.
 
@@ -124,4 +128,5 @@ GitHub Actions
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/audreyhoughton  
-- 📧 Email: audreymhoughton@gmail.com
+- 📧 Email: [audreymhoughton@gmail.com](mailto:audreymhoughton@gmail.com)
+- 📚 Publications: [Google Scholar](https://scholar.google.com/citations?hl=en&user=ik59nO0AAAAJ&view)
