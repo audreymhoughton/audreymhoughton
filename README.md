@@ -145,4 +145,3 @@ GitHub Actions
 
 - 💼 LinkedIn: https://linkedin.com/in/audreyhoughton  
 - 📧 Email: [audreymhoughton@gmail.com](mailto:audreymhoughton@gmail.com)
-- 📚 Publications: [Google Scholar](https://scholar.google.com/citations?hl=en&user=ik59nO0AAAAJ&view)
