@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Audrey Houghton
 
-> **Scientific Software Engineer | Python • HPC • Data Pipelines • ML**
+🚀 **Scientific Software Engineer | Python • HPC • Data Pipelines • ML**
 
 [![Resume](https://img.shields.io/badge/Resume-PDF-blue)](./AudreyHoughton_resume.pdf)
 [![CV](https://img.shields.io/badge/CV-PDF-2E7D32)](./AudreyHoughton_CV.pdf)
