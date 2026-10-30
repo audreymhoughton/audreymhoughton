@@ -56,6 +56,16 @@ Python-based astronomical image-processing pipeline for detecting transiting exo
 
 ---
 
+### 📊 UMN PAN — Clinical Research Analysis & Visualization
+
+Developed reproducible Python workflows to generate and validate manuscript figures and supplementary analyses from clinical research data, translating existing statistical methods into Python to ensure consistency with manuscript results.
+
+**Tech:** Python • Pandas • Statistical Analysis • Data Visualization • Reproducible Research
+
+🔗 [https://github.com/Randolph-Lab/UMN-PAN-Dataset-Figures](https://github.com/Randolph-Lab/UMN-PAN-Dataset-Figures)
+
+---
+
 ### 📦 CABINET — Container Linking Framework
 FAIR-compliant container-linking system enabling reproducible scientific
 pipelines across heterogeneous compute environments.
