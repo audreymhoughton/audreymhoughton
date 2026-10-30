@@ -30,25 +30,23 @@ turning complex technical and scientific requirements into maintainable systems.
 
 ## ⭐ Featured Projects
 
-### ⚡ SLURM Wrappers
+### [⚡ SLURM Wrappers](https://github.com/DCAN-Labs/SLURM_wrappers)
 Reusable Python/Bash wrappers enabling scalable execution of large
 data-processing workloads across HPC environments.
 
 **Tech:** Python • Bash • SLURM • HPC  
-🔗 https://github.com/DCAN-Labs/SLURM_wrappers
 
 ---
 
-### 🧠 BIBSNet — Infant MRI Segmentation
+### [🧠 BIBSNet — Infant MRI Segmentation](https://github.com/DCAN-Labs/BIBSnet)
 Containerized deep learning application improving performance and accuracy
 for large-scale neuroimaging pipelines.
 
 **Tech:** Python • Deep Learning • Containers • HPC<br>
-🔗 https://github.com/DCAN-Labs/BIBSnet
 
 ---
 
-### 🔭 MINERVA Photometric Data Reduction Pipeline
+### [🔭 MINERVA Project — Harvard-Smithsonian Center for Astrophysics](https://lweb.cfa.harvard.edu/minerva/)
 
 Python-based astronomical image-processing pipeline for detecting transiting exoplanets from time-domain FITS observations, including CCD calibration, astrometric processing, aperture/differential photometry, and light-curve generation.
 
@@ -56,22 +54,19 @@ Python-based astronomical image-processing pipeline for detecting transiting exo
 
 ---
 
-### 📊 UMN PAN — Clinical Research Analysis & Visualization
+### [📊 UMN PAN — Clinical Research Analysis & Visualization](https://github.com/Randolph-Lab/UMN-PAN-Dataset-Figures)
 
 Developed reproducible Python workflows to generate and validate manuscript figures and supplementary analyses from clinical research data, translating existing statistical methods into Python to ensure consistency with manuscript results.
 
 **Tech:** Python • Pandas • Statistical Analysis • Data Visualization • Reproducible Research
 
-🔗 [https://github.com/Randolph-Lab/UMN-PAN-Dataset-Figures](https://github.com/Randolph-Lab/UMN-PAN-Dataset-Figures)
-
 ---
 
-### 📦 CABINET — Container Linking Framework
+### [📦 CABINET — Container Linking Framework](https://github.com/DCAN-Labs/CABINET)
 FAIR-compliant container-linking system enabling reproducible scientific
 pipelines across heterogeneous compute environments.
 
 **Tech:** Python • Docker • Singularity  
-🔗 https://github.com/DCAN-Labs/CABINET
 
 ---
 
